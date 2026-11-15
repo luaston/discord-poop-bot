@@ -42,6 +42,9 @@ Download the whole thing. main.py, all the text files, image_pool folder (it's m
 
 If you run the main.py file and your bot doesn't go online, make sure all your files are in the same folder as each other.
 
+# Contact me!
+If you need help, or if you want to report a bug, email me at [aaron@gamewell.xyz](mailto:aaron@gamewell.xyz)
+
 # Happy pooping!
 Warning: Updates to the bot are not promised, as this is a project for a portfolio.
   
